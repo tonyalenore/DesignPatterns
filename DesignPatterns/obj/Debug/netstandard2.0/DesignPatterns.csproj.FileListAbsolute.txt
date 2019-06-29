@@ -1,0 +1,9 @@
+C:\Users\tonya\source\repos\DesignPatterns\DesignPatterns\bin\Debug\netstandard2.0\DesignPatterns.deps.json
+C:\Users\tonya\source\repos\DesignPatterns\DesignPatterns\bin\Debug\netstandard2.0\DesignPatterns.dll
+C:\Users\tonya\source\repos\DesignPatterns\DesignPatterns\bin\Debug\netstandard2.0\DesignPatterns.pdb
+C:\Users\tonya\source\repos\DesignPatterns\DesignPatterns\obj\Debug\netstandard2.0\DesignPatterns.csprojAssemblyReference.cache
+C:\Users\tonya\source\repos\DesignPatterns\DesignPatterns\obj\Debug\netstandard2.0\DesignPatterns.csproj.CoreCompileInputs.cache
+C:\Users\tonya\source\repos\DesignPatterns\DesignPatterns\obj\Debug\netstandard2.0\DesignPatterns.AssemblyInfoInputs.cache
+C:\Users\tonya\source\repos\DesignPatterns\DesignPatterns\obj\Debug\netstandard2.0\DesignPatterns.AssemblyInfo.cs
+C:\Users\tonya\source\repos\DesignPatterns\DesignPatterns\obj\Debug\netstandard2.0\DesignPatterns.dll
+C:\Users\tonya\source\repos\DesignPatterns\DesignPatterns\obj\Debug\netstandard2.0\DesignPatterns.pdb

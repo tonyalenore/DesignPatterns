@@ -1,0 +1,17 @@
+C:\Users\tonya\source\repos\DesignPatterns\DesignPatterns.Test\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\tonya\source\repos\DesignPatterns\DesignPatterns.Test\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\tonya\source\repos\DesignPatterns\DesignPatterns.Test\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\Users\tonya\source\repos\DesignPatterns\DesignPatterns.Test\bin\Debug\netcoreapp2.2\DesignPatterns.Test.deps.json
+C:\Users\tonya\source\repos\DesignPatterns\DesignPatterns.Test\bin\Debug\netcoreapp2.2\DesignPatterns.Test.runtimeconfig.json
+C:\Users\tonya\source\repos\DesignPatterns\DesignPatterns.Test\bin\Debug\netcoreapp2.2\DesignPatterns.Test.runtimeconfig.dev.json
+C:\Users\tonya\source\repos\DesignPatterns\DesignPatterns.Test\bin\Debug\netcoreapp2.2\DesignPatterns.Test.dll
+C:\Users\tonya\source\repos\DesignPatterns\DesignPatterns.Test\obj\Debug\netcoreapp2.2\DesignPatterns.Test.csprojAssemblyReference.cache
+C:\Users\tonya\source\repos\DesignPatterns\DesignPatterns.Test\obj\Debug\netcoreapp2.2\DesignPatterns.Test.csproj.CoreCompileInputs.cache
+C:\Users\tonya\source\repos\DesignPatterns\DesignPatterns.Test\obj\Debug\netcoreapp2.2\DesignPatterns.Test.AssemblyInfoInputs.cache
+C:\Users\tonya\source\repos\DesignPatterns\DesignPatterns.Test\obj\Debug\netcoreapp2.2\DesignPatterns.Test.AssemblyInfo.cs
+C:\Users\tonya\source\repos\DesignPatterns\DesignPatterns.Test\bin\Debug\netcoreapp2.2\DesignPatterns.Test.pdb
+C:\Users\tonya\source\repos\DesignPatterns\DesignPatterns.Test\bin\Debug\netcoreapp2.2\DesignPatterns.dll
+C:\Users\tonya\source\repos\DesignPatterns\DesignPatterns.Test\bin\Debug\netcoreapp2.2\DesignPatterns.pdb
+C:\Users\tonya\source\repos\DesignPatterns\DesignPatterns.Test\obj\Debug\netcoreapp2.2\DesignPatterns.Test.csproj.CopyComplete
+C:\Users\tonya\source\repos\DesignPatterns\DesignPatterns.Test\obj\Debug\netcoreapp2.2\DesignPatterns.Test.dll
+C:\Users\tonya\source\repos\DesignPatterns\DesignPatterns.Test\obj\Debug\netcoreapp2.2\DesignPatterns.Test.pdb

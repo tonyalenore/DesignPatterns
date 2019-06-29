@@ -1,0 +1,136 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\tonya\\source\\repos\\DesignPatterns\\DesignPatterns.Test\\DesignPatterns.Test.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\tonya\\source\\repos\\DesignPatterns\\DesignPatterns.Test\\DesignPatterns.Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\tonya\\source\\repos\\DesignPatterns\\DesignPatterns.Test\\DesignPatterns.Test.csproj",
+        "projectName": "DesignPatterns.Test",
+        "projectPath": "C:\\Users\\tonya\\source\\repos\\DesignPatterns\\DesignPatterns.Test\\DesignPatterns.Test.csproj",
+        "packagesPath": "C:\\Users\\tonya\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tonya\\source\\repos\\DesignPatterns\\DesignPatterns.Test\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\tonya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\tonya\\source\\repos\\DesignPatterns\\DesignPatterns\\DesignPatterns.csproj": {
+                "projectPath": "C:\\Users\\tonya\\source\\repos\\DesignPatterns\\DesignPatterns\\DesignPatterns.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "FluentAssertions": {
+              "target": "Package",
+              "version": "[5.7.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.0.1, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.12.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\tonya\\source\\repos\\DesignPatterns\\DesignPatterns\\DesignPatterns.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\tonya\\source\\repos\\DesignPatterns\\DesignPatterns\\DesignPatterns.csproj",
+        "projectName": "DesignPatterns",
+        "projectPath": "C:\\Users\\tonya\\source\\repos\\DesignPatterns\\DesignPatterns\\DesignPatterns.csproj",
+        "packagesPath": "C:\\Users\\tonya\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tonya\\source\\repos\\DesignPatterns\\DesignPatterns\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\tonya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
